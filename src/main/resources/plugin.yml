@@ -1,0 +1,7 @@
+name: ChannelInjector
+version: ${project.version}
+main: me.fixeddev.packetlistener.ChannelInjectorPlugin
+authors: [ FixedDev ]
+
+## Don't apply item conversion techniques
+api-version: 1.13
